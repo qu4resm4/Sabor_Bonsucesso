@@ -1,3 +1,5 @@
+https://youtu.be/EO-Kl5z--oQ
+
 # Sabor Bonsucesso
 Bem-vindo ao repositório do Sabor Bonsucesso! Este projeto é um site completo para um restaurante, desenvolvido com tecnologias front-end (HTML, CSS, JavaScript) e back-end (PHP) e utilizando MySQL para o banco de dados. O site oferece funcionalidades tanto para clientes quanto para administradores, proporcionando uma experiência de usuário eficiente e uma gestão simplificada para o restaurante.
 
